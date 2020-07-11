@@ -1,6 +1,6 @@
 __Hi Fellow Gitter,__ :wave:
 
-[(http://hits.dwyl.com/vulNERable-hue/vulNERable-hue.svg)](http://hits.dwyl.com/vulNERable-hue/vulNERable-hue)
+[![HitCount](http://hits.dwyl.com/vulNERable-hue/vulNERable-hue.svg)](http://hits.dwyl.com/vulNERable-hue/vulNERable-hue)
 
 _"It all begins in your mind. What you think, you create"_ :sparkles:
 
