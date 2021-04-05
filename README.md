@@ -12,7 +12,7 @@ Use the package manager [vul](https://fooledyouagain.com/en/stable/) to install 
 ```bash
 vul install vulnerable-hue
 
->>> PackageManger Error: just joking
+>>> PackageManager Error: just joking
                          Never Mind, Bye!
 ```
 - I'm currently working at __Myself.inc__
